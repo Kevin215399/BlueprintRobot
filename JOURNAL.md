@@ -12,3 +12,9 @@ I learned how to create gears and simulate them in Fusion 360. I followed this t
 ![10-20 progress.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzkxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--bd7917178af3a5ef083d0131af20886ae66f05be/10-20%20progress.png)
   
 
+## 10/21/2025 - Differential Start  
+
+I started working on the differential. I want to put this right before the gripper. It took a long time to find the right parts and I had to restart a couple of times. I am planning to control the differential using belts controlled by Nema 17 40mm bipolar stepper motors. I found the parts using Mc-Master Carr. I have some leftover belts from version 2, but they might not be the right size.![10-21 progress.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDIyMywicHVyIjoiYmxvYl9pZCJ9fQ==--f903f4adfb58302a31ccbb9b02705303dffee38f/10-21%20progress.png)
+![10-21 timer.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDIyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--e25d1c3f0d14a85152eed05e104dab1da24e65df/10-21%20timer.png)
+  
+
