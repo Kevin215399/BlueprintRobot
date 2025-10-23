@@ -18,3 +18,10 @@ I started working on the differential. I want to put this right before the gripp
 ![10-21 timer.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDIyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--e25d1c3f0d14a85152eed05e104dab1da24e65df/10-21%20timer.png)
   
 
+## 10/22/2025 - Developing the differential casing  
+
+I worked on building up the case around the differential and it's motors. I had these leftover belts from my last robot arm. I used desmos to figure out the correct distances I would need to mount the motors. Thankfully the distance between the motors is just over 40mm which is the minimum spacing. I am planning on using two hall-effect sensors to home the differential. I still need to figure how exactly to assemble it but progress is going well.![10-22 progress.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDYxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--f22bd38e15c3c89c78e517884d970e6754bf3296/10-22%20progress.png)
+![10-22 timer.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDYwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--990d41a43dc980acb2d9a47c1c61e698687dc9b2/10-22%20timer.png)
+![10-22 math.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDYwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--b9b9154e6edd6e7dc85095d14869cb249137037e/10-22%20math.png)
+  
+
