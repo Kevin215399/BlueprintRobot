@@ -25,3 +25,10 @@ I worked on building up the case around the differential and it's motors. I had 
 ![10-22 math.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDYwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--b9b9154e6edd6e7dc85095d14869cb249137037e/10-22%20math.png)
   
 
+## 10/23/2025 - Encoder Positions  
+
+I came across these really interesting magnetic encoders; https://www.amazon.com/Magnetic-Encoder-Induction-Measurement-Precision/dp/B097QNG1CN/ref=sr_1_3?dib=eyJ2IjoiMSJ9.sRkyQzCSLKrouEOa6e23GqsfZxDJu_2YHQAp_voUAUmSokxT2AlzQyX-yh8Z-4leQJuMwocaxFgj38EDdAspqBpHUse8SbXTfSvwcliej-quiJhbnniF6k4blvH3OiQ5Z_vikyVGQNFn86bOTLPEB0G8o0AEwexF1p7unKbJA905vU3FWZYPwTzro55U8TymUo_FUuIkyctq-9QywVJuh9AbWD-T2eh6CxCZUEnN7_4.U5Knigxo_EoVzdTMWIOEghShUINV1iGu1rnSq3dTVCY&dib_tag=se&keywords=hall%2Beffect%2Bencoder&qid=1761266110&sr=8-3&th=1#averageCustomerReviewsAnchor. They use the poles to determine the orientation. I made the horizontal axis coaxial and attached a magnetic encoder on the outside. I also Added another one on the top with a hole leading down for the wires. I am concerned how to go about controlling the nema 17 40mm motors and might downgrade to a smaller motor![10-23 cross section.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDk0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--e66bd32094cbad0035822beb0e618cd430f64b19/10-23%20cross%20section.png)
+![10-23 progress.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDk0OSwicHVyIjoiYmxvYl9pZCJ9fQ==--c4977e143a37182adc7efcdbc4fe2c78c51bc336/10-23%20progress.png)
+![10-23 timer.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDk0NywicHVyIjoiYmxvYl9pZCJ9fQ==--b5a8732167e7e32752c8833d1549f9ddfaf50af2/10-23%20timer.png)
+  
+
