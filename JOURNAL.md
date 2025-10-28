@@ -37,3 +37,9 @@ I came across these really interesting magnetic encoders; https://www.amazon.com
 Beyond some places for screws, this segment of the arm is completed. I also spent a while researching the motors and how to control/power them. Unfortunately the motors require a large controller unit that will take up quite a bit of space and budget.![10-25 timer](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTYwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--7694dad50798ab1f863c9e05416de7eaed291165/10-25%20timer.png)![10-25 pic1](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTYxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--c936f553e3bd69441c877905c44ff65ac2ce89a2/10-25%20pic1.png)![10-25 pic2](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTYxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--fa62e597b8927ee3e883c1de6f3fd36c9c6b964d/10-25%20pic2.png)![10-25 pic3](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTYwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--3778ebbf85c47f867c725631b67e8684f4858eab/10-25%20pic3.png)
   
 
+## 10/27/2025 - Started the base  
+
+I started on the base of the robot. I positioned the motor facing down with gears so that It isn't top heavy. I added a slot around the larger gear that fits into another slot improving stability. I have 1 problem the assembly and I still need to make the mount for the motor.![10-27 base](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEwNywicHVyIjoiYmxvYl9pZCJ9fQ==--abf7f90fed6db4331d1b1428588f5ca4feda8306/10-27%20base.png)
+![10-27 timer](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--99d3f4430d39516380f8aed9f20a3206691486ca/10-27%20timer.png)
+  
+
