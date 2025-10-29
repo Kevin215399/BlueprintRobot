@@ -43,3 +43,8 @@ I started on the base of the robot. I positioned the motor facing down with gear
 ![10-27 timer](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--99d3f4430d39516380f8aed9f20a3206691486ca/10-27%20timer.png)
   
 
+## 10/28/2025 - Continued work on base  
+
+I worked on mounting the motor to the base. I think I will assemble the parts while it is building to simplify assembly. This does mean that once I assemble it, I will have to reprint if there are any mistakes. I am debating whether I should use a worm gear or belt for the next segment. Either way, I will probably add a counterweight to reduce strain.![10-28](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--1d8210784eac553a9fa5b35121235c9e1a596a5f/10-28.png)![10-28 progress](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--1723cb8a0e6d57fced8896244ef720c7b382240c/10-28%20progress.png)
+  
+
